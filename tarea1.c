@@ -1,16 +1,17 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 #include <math.h>
 
-int distance(int x1, int x2, int y1, int y2){
+float distance(int x1, int x2, int y1, int y2){
     return sqrt(pow((x2 - x1), 2) + pow((y2 - y1), 2));
 }
 
 int main(){
-	char line[100];
+    char line[100];
     float teams[20][2];
     int k = 0;
-	FILE* input;
+    FILE* input;
     FILE* output;
 	
 	/* input = fopen("entrada.txt", "r");
@@ -22,7 +23,7 @@ int main(){
     output = fopen("partidos.txt", "w");
     // printf("test2 ");
     
-    while(fgets(line, 99, input)){
+    while(fgets(line, 100, input)){
         // printf("test3 ");
         char* value = strtok(line, ",");
         char* teamx;
@@ -52,15 +53,18 @@ int main(){
         teams[k][0] = x;
         teams[k][1] = y;
         // teams[k] = teamx[k];
+        printf("%f, %f\n", teams[k][0], teams[k][1]);
         k++;
     }
     fclose(input);
     fclose(output);
+    
     for(int j = 0; j<20; j++){
         for(int i = 0; i<2; i++){
             printf("%f, ", teams[j][i]);
         }
         printf("\n");
     }
+
 	return 0;
 }
