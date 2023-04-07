@@ -1,0 +1,20 @@
+Al Fateh FC,33.15,50.21
+Atlanta United FC,54.5,6.52
+Kecskeméti TE,83.9,21.85
+FC Arda Kardzhali,66.8,38.25
+Suwon Bluewings,45.58,20.18
+Xelajú,74.0,91.99
+Norwich City,94.31,34.21
+CF Montreal,2.72,39.91
+Neman Grodno,70.98,93.32
+Minnesota United,85.55,71.11
+Kabuscorp SCP,22.37,0.44
+Gyeongnam FC,53.94,46.88
+Ilves,66.41,60.15
+Beroe,40.26,93.99
+Gimcheon Sangmu FC,0.63,80.99
+Diriangén FC,64.9,20.97
+Séwé,75.71,78.92
+River Plate Ecuador,90.68,8.64
+Lobos B.U.A.P.,63.45,25.95
+FC Dallas,4.92,4.56
