@@ -9,7 +9,7 @@ float distance(int x1, int x2, int y1, int y2){
 
 int main(){
     char line[100];
-    float teams[20][2];
+    float teams[20][2], matrix[20][20];
     int k = 0;
     FILE* input;
     FILE* output;
@@ -66,5 +66,18 @@ int main(){
         printf("\n");
     }
 
+    for(int row = 0; row < 20; row++){
+        for(int col = 0; col < 20; col++){
+            if(row == col){
+                matrix[row][col] = 0;
+                // printf("%f ", matrix[row][col]);
+            }
+            else{
+                matrix[row][col] = distance(teams[row][0], teams[col][0], teams[row][1], teams[col][1]);
+                // printf("%f ", matrix[row][col]);
+            }
+        }
+    }
+    
 	return 0;
 }
