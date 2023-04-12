@@ -53,7 +53,7 @@ int main(){
         counters[i] = 0;
     }
 	
-    input = fopen("equipos_corto.txt", "r");
+    input = fopen("input_files/equipos_corto.txt", "r");
 
     while(fgets(line, 100, input)){
         char *value = strtok(line, ",");
