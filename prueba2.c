@@ -34,23 +34,26 @@ void bubble_sort(float values[], char **names, int index[], int n){
     if(sorted == 0) bubble_sort(values, names, index, n);
 }
 
-void copy(){}
-
 int main(){
     char line[100];
     char *team_names[500];
     char *copy_name[500];
     float teams[20][2], matrix[20][20], daverage[20];
     int matches[20][4];
-    int counters[20] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
-    int team_index[20] = {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19};
-    int copy_index[20] = {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19};
+    int counters[20];
+    int team_index[20];
+    int copy_index[20];
     int k = 0;
     FILE *input;
     FILE *output;
+
+    for(int i = 0; i < 20; i++){
+        team_index[i] = i;
+        copy_index[i] = i;
+        counters[i] = 0;
+    }
 	
     input = fopen("equipos_corto.txt", "r");
-    output = fopen("partidos.txt", "w");
 
     while(fgets(line, 100, input)){
         char *value = strtok(line, ",");
@@ -72,7 +75,6 @@ int main(){
     }
 
     fclose(input);
-    fclose(output);
     
     // distance matrix
     for(int row = 0; row < 20; row++){
@@ -80,7 +82,6 @@ int main(){
                 matrix[row][col] = distance(teams[row][0], teams[col][0], teams[row][1], teams[col][1]);
         }
     }
-    printf("\n");
     
     // Avg distance from teamx to each team
     for(int i = 0; i < 20; i++){
@@ -101,22 +102,17 @@ int main(){
 
     for(int i = 0; i < n; i++) {
         copy_index[i] = team_index[i];
-        printf("%d ", copy_index[i]);
+        // printf("%i) %s\n",team_index[i], team_names[i]);
     }
-
-    // for(int i = 0; i < 20; i++){
-    //     printf("%d : %0.1f \n", team_index[i] + 1, daverage[i]);
-    // }
 
     for(int i = 0; i < n; i++) {
         for(int a = 0; a < n; a++){
             team_index[a] = a;
         }
-        bubble_sort(matrix[copy_index[19 - i]], team_names, team_index, n);   //copy_index[19] => 14
+        bubble_sort(matrix[copy_index[19 - i]], team_names, team_index, n);
         for (int j = 0; j < 20; j++){
-            // printf("%d /", counters[team_index[j]]);
             if (((counters[copy_index[19 - i]] < 4) && (counters[team_index[j + 1]] < 4))){
-                matches[copy_index[19 - i]][counters[copy_index[19 - i]]] = team_index[j + 1];      //(int)copy_index[19 - 1] es un numero
+                matches[copy_index[19 - i]][counters[copy_index[19 - i]]] = team_index[j + 1];
                 matches[team_index[j + 1]][counters[team_index[j + 1]]] = copy_index[19 - i];
                 counters[copy_index[19 - i]]++;
                 counters[team_index[j + 1]]++;
@@ -124,19 +120,16 @@ int main(){
         }
     }
 
-    // printf("\n");
-    // for(int i = 0; i < 20; i++) printf("%i) %s: %0.1f\n\n", team_index[i] + 1, team_names[i], daverage[i]);
+    output = fopen("partidos.txt", "w");
 
     for(int i = 0; i < 20; i++){
+        fprintf(output, "%s: ", copy_name[i]);
         for(int j = 0; j < 4; j++){
-            printf("%d  ", matches[i][j]);
+            fprintf(output, "%s, ", copy_name[matches[i][j]]);
         }
-        printf("\n");
+        fprintf(output, "\n");
     }
 
-    for(int i = 0; i < 20; i++){
-    printf("%d \n", counters[i]);
-    }
-
+    fclose(output);
 	return 0;
 }

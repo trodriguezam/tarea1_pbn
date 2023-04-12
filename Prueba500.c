@@ -34,8 +34,6 @@ void bubble_sort(float values[], char **names, int index[], int n){
     if(sorted == 0) bubble_sort(values, names, index, n);
 }
 
-void copy(){}
-
 int main(){
     char line[100];
     char *team_names[500];
@@ -56,7 +54,6 @@ int main(){
     }
 
     input = fopen("equipos.txt", "r");
-    output = fopen("partidos.txt", "w");
 
     while(fgets(line, 100, input)){
         char *value = strtok(line, ",");
@@ -78,7 +75,6 @@ int main(){
     }
 
     fclose(input);
-    fclose(output);
     
     // distance matrix
     for(int row = 0; row < 500; row++){
@@ -86,7 +82,6 @@ int main(){
                 matrix[row][col] = distance(teams[row][0], teams[col][0], teams[row][1], teams[col][1]);
         }
     }
-    printf("\n");
     
     // Avg distance from teamx to each team
     for(int i = 0; i < 500; i++){
@@ -107,7 +102,7 @@ int main(){
 
     for(int i = 0; i < n; i++) {
         copy_index[i] = team_index[i];
-        printf("%d ", copy_index[i]);
+        // printf("%i) %s\n",team_index[i], team_names[i]);
     }
 
     for(int i = 0; i < n; i++) {
@@ -124,6 +119,17 @@ int main(){
             }
         }
     }
+
+    output = fopen("partidos.txt", "w");
     
+    for(int i = 0; i < 500; i++){
+        fprintf(output, "%s: ", copy_name[i]);
+        for(int j = 0; j < 4; j++){
+            fprintf(output, "%s, ", copy_name[matches[i][j]]);
+        }
+        fprintf(output, "\n");
+    }
+
+    fclose(output);
 	return 0;
 }
