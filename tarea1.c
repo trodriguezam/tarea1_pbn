@@ -1,66 +1,98 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 #include <math.h>
 
-int distance(int x1, int x2, int y1, int y2){
+//FUNCIONES
+
+// =====================================================================
+
+float distance(int x1, int x2, int y1, int y2){
     return sqrt(pow((x2 - x1), 2) + pow((y2 - y1), 2));
 }
 
+void order(float list[], int n){  //Algoritmo bubble sort
+    float aux;
+    for (int i = 0; i < n - 1; i++) {
+        for (int j = i + 1; j < n; j++) {
+            if (list[i] > list[j]) {
+                aux = list[i];
+                list[i] = list[j];
+                list[j] = aux;
+            }
+        }
+    }
+}
+
+void shorter_distances (float list[], int n, float shorters[]) {
+    float copy_list[n];
+    for (int i = 0; i < n; i++){
+        copy_list[i] = list[i];
+    }
+    order(copy_list, n);
+    for (int i = 0; i < 8; i++){
+        shorters[i] = copy_list[i]; 
+    }
+}
+
+// =====================================================================
+
+//MAIN
+
 int main(){
-	char line[100];
-    float teams[20][2];
+    char line[100];
+    float teams[20][2], matrix[20][20];
+    float distances[8];
+    int n = sizeof(matrix[0]) / sizeof(float);
     int k = 0;
-	FILE* input;
+    FILE* input;
     FILE* output;
 	
-	/* input = fopen("entrada.txt", "r");
-	salida = fopen("salida.txt", "w");
-	fgets(linea, 199, input);
-    fprintf(salida, "%s", linea); */
-    // printf("test1 ");
     input = fopen("equipos_corto.txt", "r");
     output = fopen("partidos.txt", "w");
-    // printf("test2 ");
     
-    while(fgets(line, 99, input)){
-        // printf("test3 ");
+    while(fgets(line, 100, input)){     //Crea un arreglo con las coordenadas de los equipos
         char* value = strtok(line, ",");
         char* teamx;
         float x;
         float y;
         for(int i = 0; i<3; i++){
-            // printf("test4 ");
-            // printf("%s", value);
             if (i == 0){
-                // printf("test5 ");
-                // printf("%s\n", value);
                 teamx = value;
-                printf("%s\n", teamx);
             }
             else if(i == 1){
-                // printf("test6 ");
                 x = atof(value);
-                printf("%f\n", x);
             }
             else if(i == 2){
-                // printf("test6 ");
                 y = atof(value);
-                printf("%f\n", y);
             }
             value = strtok(NULL, ",");
         }
         teams[k][0] = x;
         teams[k][1] = y;
-        // teams[k] = teamx[k];
         k++;
     }
     fclose(input);
     fclose(output);
-    for(int j = 0; j<20; j++){
-        for(int i = 0; i<2; i++){
-            printf("%f, ", teams[j][i]);
+
+    for(int row = 0; row < 20; row++){      //Crea la matriz de distancias
+        for(int col = 0; col < 20; col++){
+            if(row == col){
+                matrix[row][col] = 0;
+            }
+            else{
+                matrix[row][col] = distance(teams[row][0], teams[col][0], teams[row][1], teams[col][1]);
+            }
         }
-        printf("\n");
     }
+
+    for(int i = 0; i <20; i++){     //Crea un arreglo con las 8 distancias mas cortas
+        shorter_distances(matrix[i], n, distances);
+    }
+
+    for(int i = 0; i < 8; i++){     //Imprime las 8 distancias mas cortas
+        printf("%0.1f ", distances[i]);
+    }
+
 	return 0;
 }
