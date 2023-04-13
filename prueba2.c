@@ -97,11 +97,13 @@ int main(){
         copy_name[i] = team_names[i];
     }
 
+    bubble_sort(daverage, team_names, team_index, n);  //Bubble sort, ordena las distancias promedio
+
     for(int i = 0; i < n; i++) {
         copy_index[i] = team_index[i];
+        printf("%d ", copy_index[i]);
     }
 
-    bubble_sort(daverage, team_names, team_index, n);  //Bubble sort, ordena las distancias promedio
 
     // for(int i = 0; i < 20; i++){
     //     printf("%d : %0.1f \n", team_index[i] + 1, daverage[i]);
@@ -113,8 +115,8 @@ int main(){
         }
         bubble_sort(matrix[copy_index[19 - i]], team_names, team_index, n);   //copy_index[19] => 14
         for (int j = 0; j < 20; j++){
-            // printf("%d /", counters[copy_index[19 - i]]);
-            if (((counters[copy_index[19 - i]] < 4) && (counters[team_index[j]] < 4))){
+            // printf("%d /", counters[team_index[j]]);
+            if (((counters[copy_index[19 - i]] < 4) && (counters[team_index[j + 1]] < 4))){
                 matches[copy_index[19 - i]][counters[copy_index[19 - i]]] = team_index[j + 1];      //(int)copy_index[19 - 1] es un numero
                 matches[team_index[j + 1]][counters[team_index[j + 1]]] = copy_index[19 - i];
                 counters[copy_index[19 - i]]++;
@@ -123,8 +125,8 @@ int main(){
         }
     }
 
-    // printf("\n");
-    // for(int i = 0; i < 20; i++) printf("%i) %s: %0.1f\n\n", team_index[i] + 1, team_names[i], daverage[i]);
+    printf("\n");
+    for(int i = 0; i < 20; i++) printf("%i) %s: %0.1f\n\n", team_index[i] + 1, team_names[i], daverage[i]);
 
     for(int i = 0; i < 20; i++){
         for(int j = 0; j < 4; j++){
