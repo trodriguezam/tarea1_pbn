@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
+#include <time.h>
 
 
 float distance(float x1, float x2, float y1, float y2){
@@ -34,22 +35,35 @@ void bubble_sort(float values[], char **names, int index[], int n){
     if(sorted == 0) bubble_sort(values, names, index, n);
 }
 
-void copy(){}
-
 int main(){
+
     char line[100];
-    char *team_names[500];
-    char *copy_name[500];
-    float teams[500][2], matrix[500][500], daverage[500];
-    int matches[500][4];
-    int counters[500];
-    int team_index[500];
-    int copy_index[500];
-    int k = 0;
+    int N = 0;
     FILE *input;
     FILE *output;
+
+    input = fopen("equipos.txt", "r");
+    output = fopen("partidos.txt", "w");
+
+    while(fgets(line, 100, input)){
+        N++;
+    }
+
+    fclose(input);
+    fclose(output);
+
+    char *team_names[N];
+    char *copy_name[N];
+    float teams[N][2], matrix[N][N], copy_matrix[N][N], daverage[N];
+    int matches[N][4];
+    int counters[N];
+    int team_index[N];
+    int copy_index[N];
+    int k = 0;
+ 
+    printf("El numero de equipos es: %d \n", N);
 	
-    for(int i = 0; i < 500; i++){
+    for(int i = 0; i < N; i++){
         team_index[i] = i;
         copy_index[i] = i;
         counters[i] = 0;
@@ -57,6 +71,7 @@ int main(){
 
     input = fopen("equipos.txt", "r");
     output = fopen("partidos.txt", "w");
+
 
     while(fgets(line, 100, input)){
         char *value = strtok(line, ",");
@@ -81,20 +96,21 @@ int main(){
     fclose(output);
     
     // distance matrix
-    for(int row = 0; row < 500; row++){
-        for(int col = 0; col < 500; col++){
+    for(int row = 0; row < N; row++){
+        for(int col = 0; col < N; col++){
                 matrix[row][col] = distance(teams[row][0], teams[col][0], teams[row][1], teams[col][1]);
+                copy_matrix[row][col] = distance(teams[row][0], teams[col][0], teams[row][1], teams[col][1]);
         }
     }
     printf("\n");
     
     // Avg distance from teamx to each team
-    for(int i = 0; i < 500; i++){
+    for(int i = 0; i < N; i++){
         float sum = 0;
-        for(int k = 0; k < 500; k++){
+        for(int k = 0; k < N; k++){
             sum += matrix[i][k];
         }
-        daverage[i] = sum/499;
+        daverage[i] = sum/(N - 1);
     }
 
     int n = sizeof(daverage) / sizeof(daverage[0]);
@@ -107,23 +123,50 @@ int main(){
 
     for(int i = 0; i < n; i++) {
         copy_index[i] = team_index[i];
-        printf("%d ", copy_index[i]);
     }
 
     for(int i = 0; i < n; i++) {
         for(int a = 0; a < n; a++){
             team_index[a] = a;
         }
-        bubble_sort(matrix[copy_index[499 - i]], team_names, team_index, n);  
-        for (int j = 0; j < 500; j++){
-            if (((counters[copy_index[499 - i]] < 4) && (counters[team_index[j + 1]] < 4))){
-                matches[copy_index[499 - i]][counters[copy_index[499 - i]]] = team_index[j + 1];  
-                matches[team_index[j + 1]][counters[team_index[j + 1]]] = copy_index[499 - i];
-                counters[copy_index[499 - i]]++;
+        bubble_sort(matrix[copy_index[(N - 1) - i]], team_names, team_index, n);  
+        for (int j = 0; j < N; j++){
+            if (((counters[copy_index[(N - 1) - i]] < 4) && (counters[team_index[j + 1]] < 4))){
+                matches[copy_index[(N - 1) - i]][counters[copy_index[(N -1) - i]]] = team_index[j + 1];  
+                matches[team_index[j + 1]][counters[team_index[j + 1]]] = copy_index[(N - 1) - i];
+                counters[copy_index[(N - 1) - i]]++;
                 counters[team_index[j + 1]]++;
             }
         }
     }
-    
+
+    float distance_average = 0;
+    float suma = 0;
+
+    for(int i = 0; i < N; i++){
+        for(int j = 0; j < 4; j++){
+            distance_average += copy_matrix[i][matches[i][j]];
+            suma += copy_matrix[i][matches[i][j]];
+            if(j == 3) printf("La distancia promedio que recorre el equipo %s es: %f \n", copy_name[i], (distance_average)/4);
+        }
+        distance_average = 0;
+    }
+
+    printf("\nLa distancia promedio que recorre el torneo es: %f \n", suma/(N*4));
+
+    output = fopen("partidos.txt", "w");
+    fprintf(output, "Equipo, Rival 1, Rival 2, Rival 3, Rival 4\n");
+
+    for(int i = 0; i < N; i++){
+        fprintf(output, "%s,", copy_name[i]);
+    	for(int j = 0; j < 4; j++){
+            if(j == 3) fprintf(output, "%s", copy_name[matches[i][j]]);
+    	    else fprintf(output, "%s,", copy_name[matches[i][j]]);
+    	}
+    	fprintf(output, "\n");
+    }
+    fclose(output);
+
+    printf("Archivo creado con exito! \n");
 	return 0;
 }
