@@ -1,0 +1,500 @@
+CS Petrocub,NK Celje,Randers FC,Crotone,Metalurh Donetsk
+AL Ahed,Las Palmas,Junior FC,Técnico Universitario,Mjällby AIF
+Bala Town FC,Medeama SC,Deportivo Táchira,FC Torpedo Moscow,Viitorul Constanţa
+RKC Waalwijk,Slovan Liberec,Kaiserslautern,Nashville SC,Chernomorets Burgas
+FK Desna Chernihiv,Oud-Heverlee Leuven,Avaí FC,Lobi Stars,Power Dynamos
+Sampdoria,Macará,CSD Municipal,Portland Timbers,Westerlo
+FC Zürich,Jablonec,Deportivo Heredia,Alianza Atlético,FC Tokyo
+Queens Park Rangers,Eding Sport FC,Deportivo Cuenca,Toulouse,Melipilla
+Sutjeska,Unisport FC Du Haut-Nkam,Lokomotiv Tashkent,Bangor City,FC Ruh Brest
+Nîmes Olympique,Jeju United,Cumbayá FC,Persib Bandung,Leones Negros U. de G.
+CS Constantine,Amkar Perm',Astra Ploieşti,Interclube de Angola,General Caballero JLM
+FC St. Gallen 1879,Nordsjælland,Aktobe,Farul Constanța,Hibernian
+Nueva Chicago,Randers FC,Boavista,Colombe du Dja et Lobo,Unión La Calera
+FC Milsami Orhei,Koper,Sligo Rovers,NŠ Mura,Stellenbosch FC
+Bohemians 1905,Hatayspor Kulübü,Cusco FC,Cobreloa,Melbourne City FC
+Málaga,Sanga Balende,Waitakere United,Shanghai Shenhua,FC Dallas
+Jablonec,Universidad Concepción,Žilina,FC Zürich,Deportivo Heredia
+FC CSKA 1948 Sofia,Paraná Clube,Nürnberg,Independiente de La Chorrera,Grasshopper Club Zürich
+AEL Limassol,CD UT Cajamarca,Suduva Marijampole,PFC Lokomotiv Sofia 1929,Baník Ostrava
+Unión Santa Fe,SC Farense,St. Louis City,Isloch,Xanthi FC
+US Monastir,Sint-Truiden,Heracles,Hannover 96,Casa Pia
+Pogoń Szczecin,Elazığspor,Al Masry,Deportivo Pasto,Sagan Tosu
+Daegu FC,Amiens SC,Persija Jakarta,All Boys,KV Mechelen
+New York City FC,Sol de América,Guingamp,Recreativo do Libolo,Necaxa
+MOL Fehérvár FC,Eastern Suburbs,ZESCO United,CF Montreal,Lugano
+Middlesbrough,Temperley,FC Orenburg,Coquimbo Unido,Séwé
+Muangthong United,Neman Grodno,Medeama SC,AL Ansar SC,SC Heerenveen
+Sarmiento,O'Higgins,Zamora FC,Caen,Borac Banja Luka
+Vitória,Águila,Cork City,Lechia Gdańsk,Cerro Largo
+SC Heerenveen,Muangthong United,Kecskeméti TE,Puskás FC,Qäbälä
+Iskra-Stal,Irtysh Pavlodar,Kalmar FF,Sivasspor,Joinville EC
+Delfin SC,Gazişehir Gaziantep FK,New York Red Bulls,Maccabi Netanya,Mushuc Runa SC
+Farul Constanța,Veres Rivne,Nordsjælland,Aktobe,FC St. Gallen 1879
+FUS Rabat,Larne FC,FC Volendam,Al-Ittihad,IFK Göteborg
+San Martín de Tucumán,Slavia Sofia,Kalmar FF,Irtysh Pavlodar,Sharjah Cultural Club
+Foolad Khuzestan,FC Orenburg,Séwé,Evian TG,Sporting San José FC
+Mladá Boleslav,Colorado Rapids,Kavala,Metz,Larne FC
+Domžale,Kuban' Krasnodar,Chengdu Rongcheng F.C.,Watford,St Patrick's
+FK Rostov,Amiens SC,Eastern Stars,All Boys,Gomel
+CSD Municipal,New England Revolution,Macará,Sampdoria,Asteras Tripolis
+Nancy,Kashiwa Reysol,Sint-Truiden,Hannover 96,Heracles
+Toulouse,Queens Park Rangers,Deportivo Cuenca,Melipilla,Willem II
+Evian TG,Foolad Khuzestan,Sporting San José FC,Sydney FC,FC Ufa
+GFC Ajaccio,Bari,Olancho FC,Lillestrøm,Interclube de Angola
+Santo André,Atlético Rafaela,Metalurh Donetsk,Cartaginés,FC Arda Kardzhali
+BG Pathum United,Racing Santander,Crusaders,Troyes,FC Dinamo Batumi
+Saint-Eloi Lupopo,General Caballero JLM,Wuhan Three Towns F.C.,Bendel Insurance,Hatayspor Kulübü
+Linfield,Kayserispor,River Plate Ecuador,RSB Berkane,Port F.C.
+Unión La Calera,Randers FC,Boavista,Colombe du Dja et Lobo,Nueva Chicago
+Mura 05,Sol de América,Gamba Osaka,FC Seoul,Columbus Crew
+Al-Wehdat SC,Paksi SE,Mes Rafsanjan,Chiangrai United,Volos New Football Club
+Chaves,Bali United,Viborg,Huddersfield Town,Rukh Vynnyky
+JS Kabylie,Supersport United,Unión Española,Guaireña FC,East Bengal Club
+Saint-Étienne,Suwon FC,Abia Warriors,Standard Liège,Kashiwa Reysol
+Vitesse,CAPS United,Norwich City,FC Energetik-BGU Minsk,Wuhan Three Towns F.C.
+Figueirense,Club Atlético Bucaramanga,Plaza Colonia,CA Bizertin,Rubio Ñú
+Koper,Viking FK,Universidad Concepción,FC Milsami Orhei,NŠ Mura
+CS Deportivo Pereira,Servette,Rigas Futbola skola,PEC Zwolle,Moskva
+Sivasspor,Iskra-Stal,Joinville EC,St. Pauli,Al-Arabi Doha
+Metalurh Donetsk,Santo André,Diriangén FC,CS Petrocub,Torpedo Zhodino
+Bangor City,Sutjeska,Lokomotiv Tashkent,Frosinone,Universidad de Chile
+Wuhan Three Towns F.C.,General Caballero JLM,Vitesse,Saint-Eloi Lupopo,Bendel Insurance
+Everton CD,Cork City,Lechia Gdańsk,Piast Gliwice,FC Torpedo Moscow
+Sunderland,FC Ruh Brest,Moskva,Metz,Željezničar
+Reading,Bari,Lillestrøm,Temperley,Bendel Insurance
+Hércules,Union Sportive de Douala,Aduana Stars,Amiens SC,Cienciano
+IFK Norrköping,Nejmeh SC,Atlanta United FC,FC Brest,Boston River
+Club Deportivo Maldonado,Cape Town City FC,CD Jaguares,Atlético San Luis,Botev Plovdiv
+Coton Sport,AS Nika,Fortuna Sittard,Sunshine Stars,Sportivo Ameliano
+Dempo SC,Paradou AC,FC Veris,Al-Ittihad Al-Sakandary,Vålerenga
+Alanyaspor,Olympique de Bamako,Stade Renard de Melong,Lokomotiva,Crotone
+Club Africain,FK Sarajevo,CS Alagoano AL,Moreirense,Consadole Sapporo
+Lugano,MOL Fehérvár FC,CF Montreal,Nea Salamis,La Equidad
+Baník Ostrava,AEL Limassol,Highlanders,PFC Lokomotiv Sofia 1929,Union Sportive de Douala
+Hannover 96,Nancy,Águila,US Monastir,Cercle Brugge
+Puskás FC,Kecskeméti TE,Qäbälä,SC Heerenveen,AL Ansar SC
+Venezia FC,Minnesota United,Suwon Bluewings,Kano Pillars,Guastatoya
+Sepsi OSK,Unión Española,Guaireña FC,Hradec Králové,East Bengal Club
+Bohemian FC,Aluminium Arak,CD Antofagasta,NK Celje,Atlético Rafaela
+US Cremonese,Cercle Brugge,Wolfsberger AC,Motema Pembe,Cerro Largo
+Casa Pia,Al-Jazira,FC Inter Turku (FIN),Široki Brijeg,US Monastir
+Portsmouth,Gunners,Sunshine Stars,Bamboutos,Coquimbo Unido
+Palestino,Cobresal,Lobos B.U.A.P.,Jeju United,Cumbayá FC
+Junior FC,Las Palmas,Le Mans,AL Ahed,Go Ahead Eagles
+Austria Wien,KV Mechelen,Ilves,FC Veris,Mouscron-Péruwelz
+El Jaish (Doha),Nashville SC,FC Platinum,Cobresal,Mouscron-Péruwelz
+Antigua Guatemala,SC Farense,Isloch,Botoşani,Salgaocar
+Motema Pembe,Cercle Brugge,US Cremonese,Wolfsberger AC,AS Réal Bamako
+Suduva Marijampole,Santa Cruz,CD UT Cajamarca,Grêmio Prudente,AEL Limassol
+Amiens SC,Hércules,All Boys,Daegu FC,FK Rostov
+La Equidad,Lugano,Nea Salamis,Volos New Football Club,Seinaejoen JK
+FC Tokyo,FC Zürich,Alianza Atlético,Debrecen,Metalist Kharkiv
+FK Sarajevo,CS Alagoano AL,Club Africain,Moreirense,Consadole Sapporo
+Cobresal,El Jaish (Doha),FC Platinum,Palestino,Kryvbas
+Krylya Sovetov Samara,Arsenal Tula,Viitorul Constanţa,Quilmes,Pumas UNAM
+FC Ural,Deportivo Malacateco,Hwange,Gimcheon Sangmu FC,Club Tijuana
+St Patrick's,Palermo,Watford,Domžale,Glentoran
+Necaxa,New York City FC,Cienciano,Guingamp,Recreativo do Libolo
+Nashville SC,Kaiserslautern,RKC Waalwijk,El Jaish (Doha),Enugu Rangers
+Rapid Bucureşti,FC Seoul,Coban Imperial,Le Mans,Odds Ballklubb
+Akwa United,Fénix,Atromitos,Al Khartoum SC,Bari
+FC Dinamo Batumi,Osmanlıspor FK,Independiente FBC (Campo Grande),BG Pathum United,Bursaspor
+Asante Kotoko,Plateau United,Slovan Liberec,Ashanti Gold FC,Chernomorets Burgas
+Beijing Guoan,East Bengal Club,Hradec Králové,Chiangrai United,Las Palmas
+Montevideo Wanderers,St. Pauli,Al-Arabi Doha,Servette,Al-Ahli
+Tractor Sazi,Real España,Hapoel Tel Aviv,Gostaresh Foolad,Sporting Gagnoa
+Audax Italiano La Florida,Beitar Jerusalem FC,Santa Cruz,Shkupi Skopje,Tauro FC
+Plateau United,Asante Kotoko,Ashanti Gold FC,Slovan Liberec,Chernomorets Burgas
+Standard Liège,Suwon FC,Saint-Étienne,FC Ashdod,Abia Warriors
+Guarani FC,Fovu de Baham,Cliftonville,Club Atletico Progreso,Churchill Brothers SC
+New England Revolution,Portimonense,Iraklis,Macará,CSD Municipal
+Sport Huancayo,FC Nizhny Novgorod,Belenenses,Real Estelí,Chievo Verona
+Auxerre,Chonburi FC,Aberdeen,Valenciennes,Once Caldas
+MP Antalyaspor,Thun,Envigado,Brescia,Larne FC
+Kaizer Chiefs,ASO Chlef,Gangwon FC,Club Atlético Grau,Alianza Petrolera
+All Boys,Amiens SC,Persija Jakarta,Daegu FC,FK Rostov
+Melbourne City FC,Bohemians 1905,Cobreloa,Independiente FBC (Campo Grande),Borac Banja Luka
+Cercle Brugge,Hannover 96,US Cremonese,Wolfsberger AC,Motema Pembe
+Metz,Sunderland,Željezničar,Mladá Boleslav,Xelajú
+Deportivo Heredia,Viking FK,Jablonec,FC Zürich,Alianza Atlético
+Nordsjælland,Hibernian,Nacional Potosí,FC St. Gallen 1879,Farul Constanța
+Deportivo Pasto,Pogoń Szczecin,Elazığspor,Al Masry,Sagan Tosu
+Atlético Rafaela,Aluminium Arak,Bohemian FC,NK Celje,Santo André
+Bordeaux,Bunyodkor Tashkent,Adelaide United,Eding Sport FC,Saturn
+St. Pauli,Sivasspor,Montevideo Wanderers,Al-Arabi Doha,Al-Ahli
+NK Celje,Mazatlán FC,Bohemian FC,CS Petrocub,Atlético Rafaela
+Deportivo Cuenca,Eding Sport FC,Queens Park Rangers,Toulouse,Willem II
+Vorskla Poltava,FC Ashdod,Al-Jazira,FC Inter Turku (FIN),Široki Brijeg
+Kaiserslautern,Cliftonville,MC Oran,RKC Waalwijk,Nashville SC
+FC Platinum,El Jaish (Doha),Cobresal,AGF,Kryvbas
+Olympique de Bamako,Mazatlán FC,Stade Renard de Melong,Alanyaspor,Orense SC
+Highlanders,Grêmio Prudente,Mahindra United,Baník Ostrava,Union Sportive de Douala
+Cienciano,Aduana Stars,Hércules,Persija Jakarta,Necaxa
+Kayserispor,Shanghai Shenhua,AL Gharafa,River Plate Ecuador,Linfield
+Colón Santa Fe,Arsenal Tula,Chonburi FC,Quilmes,Astra Ploieşti
+Piast Gliwice,Everton CD,AS Réal Bamako,FC Torpedo Moscow,Olancho FC
+Al Taawon,Al-Faisaly FC Harmah,Boulogne,Canon Sportif,Port F.C.
+Brøndby,Curicó Unido,Cracovia Kraków,Sabah FK,Club Atlético Bucaramanga
+Torpedo Zhodino,FC Arda Kardzhali,Diriangén FC,Cartaginés,Metalurh Donetsk
+Guastatoya,Venezia FC,Suwon Bluewings,Kano Pillars,Avaí FC
+Moskva,CS Deportivo Pereira,Rigas Futbola skola,PEC Zwolle,Sunderland
+FC Ruh Brest,Unisport FC Du Haut-Nkam,Sutjeska,Lokomotiv Tashkent,Sunderland
+Crotone,Stade Renard de Melong,Alanyaspor,CS Petrocub,Lokomotiva
+MC Alger,Thun,Envigado,Parma Calcio 1913,Radnički Niš
+Boavista,Colombe du Dja et Lobo,Bali United,Nueva Chicago,Unión La Calera
+Guingamp,New York City FC,Recreativo do Libolo,Necaxa,Incheon United
+Deportivo Táchira,Neman Grodno,Medeama SC,Lechia Gdańsk,Bala Town FC
+AS Réal Bamako,Motema Pembe,Wolfsberger AC,Piast Gliwice,FC Torpedo Moscow
+Vålerenga,Dempo SC,Go Ahead Eagles,FK Haugesund,Cumbayá FC
+Sharjah Cultural Club,Zhejiang Professional,San Martín de Tucumán,Sarpsborg 08,Querétaro
+Future FC,Gimcheon Sangmu FC,Coleraine,Sagrada Esperança,El Geish
+Técnico Universitario,Volos New Football Club,AL Ahed,Mjällby AIF,Seinaejoen JK
+Avaí FC,Guastatoya,Oud-Heverlee Leuven,FK Desna Chernihiv,Grêmio Prudente
+Caracas,Willem II,FC Kolos Kovalivka,Chicken Inn FC,Universidad de Chile
+RSB Berkane,AL Gharafa,Linfield,River Plate Ecuador,Thun
+Watford,FC Skonto Riga,Pune FC,Domžale,St Patrick's
+Kasımpaşa,Liga de Loja,Newtown,Astres FC de Douala,Melipilla
+Santa Cruz,Beitar Jerusalem FC,Audax Italiano La Florida,Suduva Marijampole,CD UT Cajamarca
+Viitorul Constanţa,Bala Town FC,Krylya Sovetov Samara,Quilmes,Pumas UNAM
+Supersport United,Botev Plovdiv,Ordabasy Shymkent,JS Kabylie,Deportivo Cali
+Ordabasy Shymkent,Botev Plovdiv,Supersport United,Deportivo Cali,Paksi SE
+Gunners,Bamboutos,Portsmouth,Fortuna Sittard,Coquimbo Unido
+Jeju United,Lobos B.U.A.P.,Palestino,Cumbayá FC,Nîmes Olympique
+Riga FC,Sligo Rovers,Sabah FK,Córdoba CF,Polonia Warszawa
+FC Inter Turku (FIN),Al-Jazira,Vorskla Poltava,Široki Brijeg,Casa Pia
+ATK Mohun Bagan FC,Vitória Setúbal,Al-Rayyan,Changchun Yatai,Gamba Osaka
+Envigado,MC Alger,Jaguares Chiapas,Sportivo Ameliano,MP Antalyaspor
+Kalmar FF,San Martín de Tucumán,Irtysh Pavlodar,Joinville EC,Iskra-Stal
+Amkar Perm',Olancho FC,Interclube de Angola,CS Constantine,Astra Ploieşti
+Cerro Largo,Águila,Vitória,US Cremonese,Cork City
+Sint-Truiden,Kashiwa Reysol,Nancy,US Monastir,Heracles
+Once Caldas,Aberdeen,Valenciennes,Auxerre,Norwich City
+Curicó Unido,Sligo Rovers,Sabah FK,Brøndby,Cracovia Kraków
+Club Atlético Bucaramanga,Brøndby,PSM Makassar,Plaza Colonia,Figueirense
+Bamboutos,Gunners,Portsmouth,Coquimbo Unido,FC Orenburg
+Botev Plovdiv,Club Deportivo Maldonado,Ordabasy Shymkent,Deportivo Cali,Supersport United
+Servette,Canon Sportif,Al-Arabi Doha,CS Deportivo Pereira,Montevideo Wanderers
+Benevento,UMS de Loum,Sevilla FC Puerto Rico,Enyimba,Boston River
+Mahindra United,Power Dynamos,Highlanders,Voždovac,Aduana Stars
+Enyimba,FC Dallas,Sevilla FC Puerto Rico,Benevento,Olympic Club de Safi
+Lillestrøm,Bari,Reading,GFC Ajaccio,Temperley
+FC Energetik-BGU Minsk,CAPS United,Vitesse,Norwich City,Cusco FC
+Atlético San Luis,Valmiera FK,Cape Town City FC,CD Jaguares,Club Deportivo Maldonado
+Luzern,Deportiva San Carlos,Portimonense,Deportes Temuco,Iraklis
+Kuban' Krasnodar,FC Skonto Riga,Palermo,Chengdu Rongcheng F.C.,Domžale
+UMS de Loum,Sanga Balende,Defence Force FC,Waitakere United,Benevento
+Le Mans,Coban Imperial,Rapid Bucureşti,Junior FC,Al-Ittihad Al-Sakandary
+Heart of Midlothian,Sporting Gagnoa,River Plate PR,Club Deportivo Garcilaso,KS Warta Poznań
+Pumas UNAM,Arsenal Tula,Viitorul Constanţa,Krylya Sovetov Samara,Quilmes
+IFK Göteborg,FUS Rabat,Motor Action,Al-Ittihad,FC Volendam
+Huachipato,Gyeongnam FC,Persib Bandung,Leones Negros U. de G.,O'Higgins
+Deportivo Cali,Botev Plovdiv,Supersport United,Ordabasy Shymkent,Paksi SE
+Criciúma,Beroe,Persipura Jayapura,LA Galaxy,Oriente Petrolero
+Cartaginés,Santo André,FC Arda Kardzhali,Diriangén FC,Torpedo Zhodino
+River Plate PR,Gostaresh Foolad,Sarpsborg 08,Querétaro,Heart of Midlothian
+NŠ Mura,Koper,Viking FK,FC Milsami Orhei,Stellenbosch FC
+Joinville EC,Irtysh Pavlodar,Kalmar FF,Iskra-Stal,Sivasspor
+Rigas Futbola skola,Al-Ahli,CS Deportivo Pereira,Moskva,PEC Zwolle
+Žilina,Universidad Concepción,Valmiera FK,Jablonec,Debrecen
+Slavia Sofia,Cesena,Zhejiang Professional,San Martín de Tucumán,Alianza Petrolera
+Isloch,SC Farense,Antigua Guatemala,St. Louis City,Unión Santa Fe
+Frosinone,FC Kolos Kovalivka,Bangor City,Universidad de Chile,Chicken Inn FC
+Chicken Inn FC,FC Kolos Kovalivka,Frosinone,Caracas,Universidad de Chile
+Gazişehir Gaziantep FK,Maccabi Netanya,Mushuc Runa SC,New York Red Bulls,Delfin SC
+Mes Rafsanjan,Paksi SE,Al-Wehdat SC,Volos New Football Club,Chiangrai United
+Maghreb Fès,FK Haugesund,Bursaspor,Zamora FC,Caen
+Slovan Liberec,Asante Kotoko,Plateau United,RKC Waalwijk,Ashanti Gold FC
+Orense SC,Mazatlán FC,Olympique de Bamako,Aluminium Arak,CD Antofagasta
+Wolfsberger AC,Cercle Brugge,US Cremonese,Motema Pembe,AS Réal Bamako
+Al-Jazira,FC Ashdod,Vorskla Poltava,Casa Pia,FC Inter Turku (FIN)
+FC Seoul,Mura 05,Greuther Fürth,Columbus Crew,Rapid Bucureşti
+Águila,Vitória,Hannover 96,Heracles,Cerro Largo
+PFC Lokomotiv Sofia 1929,AEL Limassol,Baník Ostrava,Xanthi FC,Union Sportive de Douala
+O'Higgins,Leones Negros U. de G.,Huachipato,Sarmiento,Asteras Tripolis
+Al-Rayyan,Sagrada Esperança,ATK Mohun Bagan FC,Vitória Setúbal,Changchun Yatai
+Kisvárda Master Good,Pune FC,Chonburi FC,Aberdeen,Arsenal Tula
+EC Juventude,Željezničar,ENPPI,Veres Rivne,Xelajú
+Saturn,Al Mokawloon Al Arab,Boyacá Chicó FC,Bordeaux,Novi Pazar
+Columbus Crew,Gamba Osaka,Mura 05,Greuther Fürth,FC Seoul
+Temperley,Al Khartoum SC,Lillestrøm,Reading,Middlesbrough
+Paksi SE,Ordabasy Shymkent,Deportivo Cali,Mes Rafsanjan,Al-Wehdat SC
+Grenoble,Brescia,Colorado Rapids,Kavala,Larne FC
+Boston River,IFK Norrköping,Atlanta United FC,Benevento,Ben Guerdane
+Bari,Akwa United,Lillestrøm,GFC Ajaccio,Reading
+Viking FK,Koper,Universidad Concepción,Deportivo Heredia,NŠ Mura
+Portland Timbers,Al-Faisaly SC Amman,Sampdoria,Westerlo,Asteras Tripolis
+Palermo,Chengdu Rongcheng F.C.,Huddersfield Town,Kuban' Krasnodar,St Patrick's
+Željezničar,Sunderland,Metz,Xelajú,EC Juventude
+Canon Sportif,Al Taawon,Al-Faisaly FC Harmah,Boulogne,Servette
+Greuther Fürth,CA Bizertin,Coban Imperial,Columbus Crew,FC Seoul
+Zhejiang Professional,Cesena,Slavia Sofia,Alianza Petrolera,Sharjah Cultural Club
+Astra Ploieşti,Colón Santa Fe,Amkar Perm',General Caballero JLM,CS Constantine
+Interclube de Angola,Olancho FC,Amkar Perm',CS Constantine,GFC Ajaccio
+FC Kolos Kovalivka,Willem II,Caracas,Frosinone,Chicken Inn FC
+Go Ahead Eagles,Junior FC,Al-Ittihad Al-Sakandary,FK Haugesund,Vålerenga
+Bunyodkor Tashkent,Adelaide United,Bordeaux,Eding Sport FC,Újpest
+Port F.C.,Al Taawon,Al-Faisaly FC Harmah,Boulogne,Linfield
+Moreirense,FK Sarajevo,CS Alagoano AL,Club Africain,Consadole Sapporo
+Real España,Hapoel Tel Aviv,Tractor Sazi,Gostaresh Foolad,Sporting Gagnoa
+Motor Action,Sunshine Stars,Deportiva San Carlos,IFK Göteborg,FC Volendam
+ZESCO United,Asociación Deportiva Tarma (ADT),Eastern Suburbs,Hearts of Oak,MOL Fehérvár FC
+Boulogne,Al Taawon,Al-Faisaly FC Harmah,Canon Sportif,Port F.C.
+CS Alagoano AL,Lokomotiva,FK Sarajevo,Club Africain,Moreirense
+Caen,Maghreb Fès,Bursaspor,Zamora FC,Sarmiento
+Al-Ahli,St. Pauli,Montevideo Wanderers,Rigas Futbola skola,Unisport FC Du Haut-Nkam
+Aktobe,ENPPI,Veres Rivne,Farul Constanța,FC St. Gallen 1879
+Sligo Rovers,Curicó Unido,Sabah FK,FC Milsami Orhei,Riga FC
+Mjällby AIF,AL Ahed,Técnico Universitario,Seinaejoen JK,Osmanlıspor FK
+Independiente FBC (Campo Grande),Crusaders,Osmanlıspor FK,FC Dinamo Batumi,Melbourne City FC
+Nacional Potosí,Al-Ittihad,Deportiva San Carlos,Nordsjælland,Hibernian
+Lokomotiva,Stade Renard de Melong,Alanyaspor,Crotone,CS Alagoano AL
+Borac Banja Luka,Melbourne City FC,Al-Faisaly SC Amman,Westerlo,Sarmiento
+Incheon United,Guingamp,Odds Ballklubb,Paradou AC,KV Mechelen
+Grêmio Prudente,Avaí FC,CD UT Cajamarca,Suduva Marijampole,Highlanders
+Volos New Football Club,Mes Rafsanjan,La Equidad,Al-Wehdat SC,Técnico Universitario
+Viborg,Bali United,Chaves,Glentoran,Huddersfield Town
+Enugu Rangers,Nashville SC,Samsunspor,SO Armée,Mouscron-Péruwelz
+Smouha SC,Jaguares Chiapas,Parma Calcio 1913,Radnički Niš,AS Nika
+Consadole Sapporo,FK Sarajevo,Club Africain,Moreirense,Bali United
+Pune FC,FC Skonto Riga,Watford,Qäbälä,Kisvárda Master Good
+Metalist Kharkiv,Stellenbosch FC,Henan Songshan Longmen F.C.,FC Tokyo,Córdoba CF
+Nürnberg,Paraná Clube,FC CSKA 1948 Sofia,Independiente de La Chorrera,Grasshopper Club Zürich
+AGF,FC Platinum,FC Veris,Kryvbas,Lobos B.U.A.P.
+Marathón,Cracovia Kraków,Changchun Yatai,Hekari United,Vitória Setúbal
+FC Orenburg,Bamboutos,Middlesbrough,Foolad Khuzestan,Séwé
+Kano Pillars,Minnesota United,Venezia FC,Suwon Bluewings,Guastatoya
+New York Red Bulls,Gazişehir Gaziantep FK,Delfin SC,Maccabi Netanya,Mushuc Runa SC
+Heracles,Nancy,Sint-Truiden,Águila,US Monastir
+Westerlo,Portland Timbers,Sampdoria,Al-Faisaly SC Amman,Borac Banja Luka
+Polonia Warszawa,Henan Songshan Longmen F.C.,Riga FC,Córdoba CF,Unión Española
+Nejmeh SC,IFK Norrköping,Atlanta United FC,FC Brest,Sporting Kansas City
+Real Estelí,FC Nizhny Novgorod,Gyeongnam FC,Chievo Verona,Sport Huancayo
+Maccabi Netanya,Gazişehir Gaziantep FK,New York Red Bulls,Mushuc Runa SC,Delfin SC
+Fortuna Sittard,AS Nika,Coton Sport,Sportivo Ameliano,Gunners
+Las Palmas,Hradec Králové,Beijing Guoan,AL Ahed,Junior FC
+FC Ufa,Pandurii Târgu Jiu,Evian TG,Sportivo Luqueño,Sydney FC
+Coban Imperial,Greuther Fürth,Rapid Bucureşti,Le Mans,Odds Ballklubb
+MC Oran,Kabuscorp SCP,Cliftonville,Kaiserslautern,Eastern Stars
+Cape Town City FC,Rukh Vynnyky,CD Jaguares,Atlético San Luis,Club Deportivo Maldonado
+Persib Bandung,Gyeongnam FC,Nîmes Olympique,Leones Negros U. de G.,Huachipato
+FC Volendam,FUS Rabat,Motor Action,Al-Ittihad,IFK Göteborg
+Al Masry,Pogoń Szczecin,Elazığspor,Deportivo Pasto,Sagan Tosu
+SC Farense,Antigua Guatemala,Isloch,Botoşani,Unión Santa Fe
+Club Tijuana,Hwange,FC Ural,Gimcheon Sangmu FC,Coleraine
+AL Ansar SC,Neman Grodno,Muangthong United,Kecskeméti TE,Puskás FC
+Valenciennes,Glentoran,Once Caldas,Auxerre,CF Montreal
+Seinaejoen JK,La Equidad,Técnico Universitario,Racing Santander,Mjällby AIF
+Club Atlético Grau,ASO Chlef,Gangwon FC,Kaizer Chiefs,Hapoel Tel Aviv
+Sportivo Ameliano,Envigado,Coton Sport,Sunshine Stars,Fortuna Sittard
+Široki Brijeg,Vorskla Poltava,FC Inter Turku (FIN),Casa Pia,Defence Force FC
+Chernomorets Burgas,Asante Kotoko,Plateau United,Ashanti Gold FC,RKC Waalwijk
+Gangwon FC,ASO Chlef,Club Atlético Grau,Kaizer Chiefs,Cesena
+AS Nika,Smouha SC,Olympic Club de Safi,Coton Sport,Fortuna Sittard
+Racing Santander,Crusaders,Troyes,Seinaejoen JK,BG Pathum United
+Hatayspor Kulübü,Saint-Eloi Lupopo,Bohemians 1905,Cusco FC,Cobreloa
+Troyes,Racing Santander,Crusaders,Osmanlıspor FK,BG Pathum United
+Parma Calcio 1913,MC Alger,Jaguares Chiapas,Smouha SC,Radnički Niš
+Kavala,Brescia,Colorado Rapids,Grenoble,Mladá Boleslav
+Shanghai Shenhua,Málaga,AL Gharafa,Kayserispor,FC Dallas
+Union Sportive de Douala,Highlanders,PFC Lokomotiv Sofia 1929,Baník Ostrava,Hércules
+Al Fateh FC,Botoşani,Novi Pazar,CS Marítimo Madeira,Fovu de Baham
+Atlanta United FC,Nejmeh SC,IFK Norrköping,Boston River,FC Brest
+Kecskeméti TE,Puskás FC,Qäbälä,SC Heerenveen,AL Ansar SC
+FC Arda Kardzhali,Santo André,Diriangén FC,Torpedo Zhodino,Cartaginés
+Suwon Bluewings,Minnesota United,Venezia FC,Kano Pillars,Guastatoya
+Xelajú,Metz,Željezničar,EC Juventude,ENPPI
+Norwich City,Once Caldas,CAPS United,Vitesse,FC Energetik-BGU Minsk
+CF Montreal,MOL Fehérvár FC,Valenciennes,Lugano,Nea Salamis
+Neman Grodno,Medeama SC,Muangthong United,Deportivo Táchira,AL Ansar SC
+Minnesota United,Deportivo Malacateco,Suwon Bluewings,Venezia FC,Kano Pillars
+Kabuscorp SCP,Xanthi FC,Club Atletico Progreso,Churchill Brothers SC,MC Oran
+Gyeongnam FC,Belenenses,Real Estelí,Persib Bandung,Huachipato
+Ilves,SO Armée,FC Veris,Austria Wien,Mouscron-Péruwelz
+Beroe,Sportivo Luqueño,Criciúma,Persipura Jayapura,LA Galaxy
+Gimcheon Sangmu FC,Hwange,FC Ural,Club Tijuana,Future FC
+Diriangén FC,FC Arda Kardzhali,Torpedo Zhodino,Cartaginés,Metalurh Donetsk
+Séwé,Middlesbrough,FC Orenburg,Foolad Khuzestan,Pandurii Târgu Jiu
+River Plate Ecuador,AL Gharafa,Kayserispor,Linfield,RSB Berkane
+Lobos B.U.A.P.,AGF,Kryvbas,Palestino,Jeju United
+FC Dallas,Málaga,Shanghai Shenhua,Sevilla FC Puerto Rico,Enyimba
+Sagan Tosu,Pogoń Szczecin,Elazığspor,Al Masry,Deportivo Pasto
+Gomel,Eastern Stars,FK Rostov,SO Armée,Samsunspor
+Fovu de Baham,Novi Pazar,CS Marítimo Madeira,Al Fateh FC,Guarani FC
+Lobi Stars,Oud-Heverlee Leuven,El Geish,Power Dynamos,FK Desna Chernihiv
+Al Mokawloon Al Arab,Boyacá Chicó FC,Salgaocar,Saturn,Jeanne d'Arc de Bamako
+KV Mechelen,Daegu FC,Incheon United,Paradou AC,Austria Wien
+Sportivo Luqueño,Pandurii Târgu Jiu,FC Ufa,Sydney FC,Beroe
+Chengdu Rongcheng F.C.,FC Skonto Riga,Palermo,Kuban' Krasnodar,Domžale
+Universidad Concepción,Koper,Jablonec,Žilina,Viking FK
+Colombe du Dja et Lobo,Randers FC,Boavista,Nueva Chicago,Unión La Calera
+Cracovia Kraków,Curicó Unido,Marathón,Brøndby,PSM Makassar
+Oriente Petrolero,Criciúma,Persipura Jayapura,LA Galaxy,Al-Faisaly SC Amman
+Odds Ballklubb,Coban Imperial,Rapid Bucureşti,Incheon United,Paradou AC
+St. Louis City,Tauro FC,Unión Santa Fe,Shkupi Skopje,Isloch
+Randers FC,CS Petrocub,Nueva Chicago,Unión La Calera,Colombe du Dja et Lobo
+Cumbayá FC,Vålerenga,Palestino,Jeju United,Nîmes Olympique
+CD Antofagasta,Mazatlán FC,Aluminium Arak,Orense SC,Bohemian FC
+Sagrada Esperança,Coleraine,Future FC,El Geish,Al-Rayyan
+Deportivo Malacateco,Minnesota United,Hwange,Oud-Heverlee Leuven,FC Ural
+Aberdeen,Kisvárda Master Good,Chonburi FC,Auxerre,Once Caldas
+Chievo Verona,FC Nizhny Novgorod,Belenenses,Real Estelí,Sport Huancayo
+Oud-Heverlee Leuven,Deportivo Malacateco,Avaí FC,FK Desna Chernihiv,Lobi Stars
+Abia Warriors,Suwon FC,Saint-Étienne,Kashiwa Reysol,Standard Liège
+Cliftonville,Guarani FC,Club Atletico Progreso,Kaiserslautern,MC Oran
+FC Brest,Nejmeh SC,IFK Norrköping,Atlanta United FC,Sporting Kansas City
+Coquimbo Unido,Gunners,Bamboutos,Portsmouth,Middlesbrough
+Hibernian,Nordsjælland,Nacional Potosí,Portimonense,FC St. Gallen 1879
+Olympic Club de Safi,Sevilla FC Puerto Rico,Enyimba,FC Juárez,AS Nika
+Bursaspor,FC Dinamo Batumi,Maghreb Fès,Zamora FC,Caen
+Persipura Jayapura,Beroe,Criciúma,LA Galaxy,Oriente Petrolero
+East Bengal Club,JS Kabylie,Sepsi OSK,Chiangrai United,Beijing Guoan
+Paraná Clube,Nürnberg,FC CSKA 1948 Sofia,Independiente de La Chorrera,Grasshopper Club Zürich
+Debrecen,Žilina,Valmiera FK,Alianza Atlético,FC Tokyo
+Sevilla FC Puerto Rico,FC Dallas,Benevento,Enyimba,Olympic Club de Safi
+Brescia,Thun,MP Antalyaspor,Grenoble,Kavala
+Defence Force FC,Široki Brijeg,Sanga Balende,Waitakere United,UMS de Loum
+Lokomotiv Tashkent,Unisport FC Du Haut-Nkam,Sutjeska,FC Ruh Brest,Bangor City
+Club Atletico Progreso,Guarani FC,Churchill Brothers SC,Kabuscorp SCP,Cliftonville
+Bali United,Consadole Sapporo,Boavista,Chaves,Viborg
+Willem II,Deportivo Cuenca,Toulouse,FC Kolos Kovalivka,Caracas
+Unión Española,Polonia Warszawa,Guaireña FC,Sepsi OSK,JS Kabylie
+KS Warta Poznań,Club Deportivo Garcilaso,Heart of Midlothian,Liga de Loja,Astres FC de Douala
+Alianza Petrolera,Kaizer Chiefs,Cesena,Slavia Sofia,Zhejiang Professional
+Alianza Atlético,Deportivo Heredia,FC Zürich,FC Tokyo,Debrecen
+Cork City,Vitória,Lechia Gdańsk,Everton CD,Cerro Largo
+Arsenal Tula,Kisvárda Master Good,Colón Santa Fe,Pumas UNAM,Krylya Sovetov Samara
+Gamba Osaka,ATK Mohun Bagan FC,Sol de América,Mura 05,Columbus Crew
+Osmanlıspor FK,Mjällby AIF,FC Dinamo Batumi,Troyes,Independiente FBC (Campo Grande)
+CS Marítimo Madeira,Salgaocar,Novi Pazar,Fovu de Baham,Al Fateh FC
+Al-Faisaly SC Amman,Oriente Petrolero,Portland Timbers,Westerlo,Borac Banja Luka
+Asteras Tripolis,Macará,CSD Municipal,O'Higgins,Portland Timbers
+Botoşani,SC Farense,Antigua Guatemala,Salgaocar,Al Fateh FC
+Salgaocar,Al Mokawloon Al Arab,Antigua Guatemala,Botoşani,CS Marítimo Madeira
+Henan Songshan Longmen F.C.,Stellenbosch FC,Metalist Kharkiv,Córdoba CF,Polonia Warszawa
+Eding Sport FC,Bunyodkor Tashkent,Bordeaux,Queens Park Rangers,Deportivo Cuenca
+Stade Renard de Melong,Olympique de Bamako,Alanyaspor,Lokomotiva,Crotone
+Larne FC,MP Antalyaspor,Grenoble,Mladá Boleslav,FUS Rabat
+Crusaders,Racing Santander,Troyes,BG Pathum United,Independiente FBC (Campo Grande)
+Vitória Setúbal,Marathón,ATK Mohun Bagan FC,Changchun Yatai,Al-Rayyan
+Sydney FC,Evian TG,FC Ufa,Sportivo Luqueño,Deportes Temuco
+FC Juárez,Ben Guerdane,Olympic Club de Safi,Atromitos,Al Khartoum SC
+Leones Negros U. de G.,Nîmes Olympique,Persib Bandung,Huachipato,O'Higgins
+Cusco FC,FC Energetik-BGU Minsk,Hatayspor Kulübü,Bohemians 1905,Cobreloa
+FC Torpedo Moscow,Everton CD,Bala Town FC,AS Réal Bamako,Piast Gliwice
+Atromitos,Fénix,Akwa United,Al Khartoum SC,FC Juárez
+Persija Jakarta,Cienciano,Recreativo do Libolo,Daegu FC,All Boys
+Pandurii Târgu Jiu,Bendel Insurance,FC Ufa,Sportivo Luqueño,Séwé
+Hekari United,Marathón,PSM Makassar,CA Bizertin,Rubio Ñú
+Astres FC de Douala,Liga de Loja,KS Warta Poznań,Newtown,Kasımpaşa
+Al Khartoum SC,Atromitos,FC Juárez,Akwa United,Temperley
+Deportes Temuco,Sporting San José FC,Luzern,Sydney FC,Iraklis
+Portimonense,Hibernian,Luzern,New England Revolution,Iraklis
+Club Deportivo Garcilaso,Sarpsborg 08,Querétaro,KS Warta Poznań,Heart of Midlothian
+CA Bizertin,Hekari United,Rubio Ñú,Greuther Fürth,Figueirense
+PEC Zwolle,CS Deportivo Pereira,Rigas Futbola skola,Moskva,Colorado Rapids
+Hradec Králové,Guaireña FC,Sepsi OSK,Beijing Guoan,Las Palmas
+Glentoran,Viborg,Huddersfield Town,St Patrick's,Valenciennes
+Macará,New England Revolution,CSD Municipal,Sampdoria,Asteras Tripolis
+Ben Guerdane,Sporting Kansas City,Fénix,Boston River,FC Juárez
+ENPPI,EC Juventude,Veres Rivne,Xelajú,Aktobe
+Universidad de Chile,Bangor City,Frosinone,Caracas,Chicken Inn FC
+Samsunspor,Eastern Stars,Gomel,SO Armée,Enugu Rangers
+Adelaide United,Bunyodkor Tashkent,Bordeaux,Újpest,Jeanne d'Arc de Bamako
+Hwange,Deportivo Malacateco,FC Ural,Gimcheon Sangmu FC,Club Tijuana
+Jeanne d'Arc de Bamako,Adelaide United,Al Mokawloon Al Arab,Boyacá Chicó FC,Újpest
+Voždovac,Power Dynamos,Mahindra United,Sol de América,Aduana Stars
+Al-Ittihad,FUS Rabat,FC Volendam,Nacional Potosí,IFK Göteborg
+Iraklis,Luzern,Portimonense,Deportes Temuco,New England Revolution
+Mazatlán FC,Olympique de Bamako,Orense SC,CD Antofagasta,NK Celje
+Irtysh Pavlodar,San Martín de Tucumán,Iskra-Stal,Kalmar FF,Joinville EC
+CAPS United,Norwich City,Vitesse,Nea Salamis,FC Energetik-BGU Minsk
+Unisport FC Du Haut-Nkam,Al-Ahli,Lokomotiv Tashkent,FC Ruh Brest,Sutjeska
+Qäbälä,Pune FC,Kecskeméti TE,Puskás FC,SC Heerenveen
+FC Veris,Ilves,Austria Wien,AGF,Dempo SC
+Chonburi FC,Kisvárda Master Good,Aberdeen,Colón Santa Fe,Auxerre
+Ashanti Gold FC,Asante Kotoko,Plateau United,Slovan Liberec,Chernomorets Burgas
+Waitakere United,Sanga Balende,Defence Force FC,Málaga,UMS de Loum
+Kryvbas,FC Platinum,AGF,Cobresal,Lobos B.U.A.P.
+Thun,RSB Berkane,MC Alger,Brescia,MP Antalyaspor
+ASO Chlef,Gangwon FC,Club Atlético Grau,Kaizer Chiefs,Hapoel Tel Aviv
+Sarpsborg 08,Sharjah Cultural Club,Querétaro,Club Deportivo Garcilaso,River Plate PR
+Guaireña FC,Unión Española,Sepsi OSK,JS Kabylie,Hradec Králové
+CD UT Cajamarca,Santa Cruz,Suduva Marijampole,Grêmio Prudente,AEL Limassol
+Medeama SC,Neman Grodno,Muangthong United,Deportivo Táchira,Bala Town FC
+Córdoba CF,Henan Songshan Longmen F.C.,Riga FC,Metalist Kharkiv,Polonia Warszawa
+Bendel Insurance,Reading,Saint-Eloi Lupopo,Wuhan Three Towns F.C.,Pandurii Târgu Jiu
+FC Ashdod,Suwon FC,Al-Jazira,Standard Liège,Vorskla Poltava
+Aduana Stars,Voždovac,Mahindra United,Hércules,Cienciano
+Aluminium Arak,Bohemian FC,Atlético Rafaela,CD Antofagasta,Orense SC
+Plaza Colonia,PSM Makassar,Club Atlético Bucaramanga,Figueirense,Rubio Ñú
+SO Armée,Gomel,Samsunspor,Ilves,Enugu Rangers
+Al-Ittihad Al-Sakandary,Le Mans,Go Ahead Eagles,FK Haugesund,Dempo SC
+Sol de América,Voždovac,Gamba Osaka,New York City FC,Mura 05
+Querétaro,Sharjah Cultural Club,Sarpsborg 08,Club Deportivo Garcilaso,River Plate PR
+Mouscron-Péruwelz,Enugu Rangers,Ilves,El Jaish (Doha),Austria Wien
+Al-Faisaly FC Harmah,Al Taawon,Boulogne,Canon Sportif,Port F.C.
+Suwon FC,Saint-Étienne,Standard Liège,FC Ashdod,Abia Warriors
+Recreativo do Libolo,New York City FC,Guingamp,Necaxa,Persija Jakarta
+Cobreloa,Hatayspor Kulübü,Cusco FC,Bohemians 1905,Melbourne City FC
+Al-Arabi Doha,Sivasspor,St. Pauli,Servette,Montevideo Wanderers
+Deportiva San Carlos,Motor Action,Luzern,Sporting San José FC,Nacional Potosí
+Power Dynamos,Lobi Stars,FK Desna Chernihiv,Voždovac,Mahindra United
+Radnički Niš,MC Alger,Jaguares Chiapas,Smouha SC,Parma Calcio 1913
+Boyacá Chicó FC,Al Mokawloon Al Arab,Jeanne d'Arc de Bamako,Újpest,Saturn
+Veres Rivne,EC Juventude,ENPPI,Aktobe,Farul Constanța
+Asociación Deportiva Tarma (ADT),Rukh Vynnyky,Hearts of Oak,Eastern Suburbs,ZESCO United
+Sporting Kansas City,Nejmeh SC,FC Brest,Fénix,Ben Guerdane
+Beitar Jerusalem FC,Audax Italiano La Florida,Santa Cruz,Shkupi Skopje,Tauro FC
+Olancho FC,Piast Gliwice,Interclube de Angola,GFC Ajaccio,Amkar Perm'
+Grasshopper Club Zürich,Paraná Clube,Nürnberg,FC CSKA 1948 Sofia,Independiente de La Chorrera
+Chiangrai United,East Bengal Club,Mes Rafsanjan,Beijing Guoan,Al-Wehdat SC
+Lechia Gdańsk,Vitória,Cork City,Everton CD,Deportivo Táchira
+Churchill Brothers SC,Xanthi FC,Guarani FC,Club Atletico Progreso,Kabuscorp SCP
+Xanthi FC,Unión Santa Fe,PFC Lokomotiv Sofia 1929,Kabuscorp SCP,Churchill Brothers SC
+Sporting San José FC,Deportiva San Carlos,Foolad Khuzestan,Evian TG,Deportes Temuco
+Újpest,Bunyodkor Tashkent,Adelaide United,Boyacá Chicó FC,Jeanne d'Arc de Bamako
+Mushuc Runa SC,Gazişehir Gaziantep FK,New York Red Bulls,Maccabi Netanya,Delfin SC
+Kashiwa Reysol,Saint-Étienne,Nancy,Abia Warriors,Sint-Truiden
+Cesena,Gangwon FC,Alianza Petrolera,Zhejiang Professional,Slavia Sofia
+Rubio Ñú,Hekari United,Plaza Colonia,CA Bizertin,Figueirense
+Eastern Suburbs,Asociación Deportiva Tarma (ADT),MOL Fehérvár FC,Hearts of Oak,ZESCO United
+Colorado Rapids,PEC Zwolle,Kavala,Grenoble,Mladá Boleslav
+Rukh Vynnyky,Chaves,Asociación Deportiva Tarma (ADT),Cape Town City FC,Hearts of Oak
+Huddersfield Town,Chaves,Palermo,Viborg,Glentoran
+Quilmes,Viitorul Constanţa,Krylya Sovetov Samara,Pumas UNAM,Colón Santa Fe
+Zamora FC,Maghreb Fès,Bursaspor,Caen,Sarmiento
+Shkupi Skopje,Beitar Jerusalem FC,Audax Italiano La Florida,St. Louis City,Tauro FC
+CD Jaguares,Valmiera FK,Cape Town City FC,Atlético San Luis,Club Deportivo Maldonado
+Jaguares Chiapas,Smouha SC,Parma Calcio 1913,Radnički Niš,Envigado
+FK Haugesund,Al-Ittihad Al-Sakandary,Go Ahead Eagles,Vålerenga,Maghreb Fès
+Independiente de La Chorrera,Paraná Clube,Nürnberg,FC CSKA 1948 Sofia,Grasshopper Club Zürich
+FC Nizhny Novgorod,Belenenses,Sport Huancayo,Real Estelí,Chievo Verona
+Sporting Gagnoa,Real España,Tractor Sazi,Gostaresh Foolad,Heart of Midlothian
+Coleraine,Sagrada Esperança,Future FC,Club Tijuana,El Geish
+AL Gharafa,Shanghai Shenhua,Kayserispor,River Plate Ecuador,RSB Berkane
+Changchun Yatai,Marathón,ATK Mohun Bagan FC,Vitória Setúbal,Al-Rayyan
+Novi Pazar,Saturn,CS Marítimo Madeira,Fovu de Baham,Al Fateh FC
+FC Skonto Riga,Watford,Pune FC,Kuban' Krasnodar,Chengdu Rongcheng F.C.
+Tauro FC,Beitar Jerusalem FC,Audax Italiano La Florida,St. Louis City,Shkupi Skopje
+Nea Salamis,CF Montreal,Lugano,CAPS United,La Equidad
+Fénix,Sporting Kansas City,Akwa United,Atromitos,Ben Guerdane
+Sanga Balende,Defence Force FC,Waitakere United,Málaga,UMS de Loum
+Stellenbosch FC,FC Milsami Orhei,NŠ Mura,Henan Songshan Longmen F.C.,Metalist Kharkiv
+Gostaresh Foolad,Real España,Tractor Sazi,Sporting Gagnoa,River Plate PR
+Sunshine Stars,Coton Sport,Sportivo Ameliano,Portsmouth,Motor Action
+Eastern Stars,MC Oran,Samsunspor,Gomel,FK Rostov
+Belenenses,FC Nizhny Novgorod,Sport Huancayo,Chievo Verona,Gyeongnam FC
+Hapoel Tel Aviv,ASO Chlef,Club Atlético Grau,Real España,Tractor Sazi
+General Caballero JLM,Astra Ploieşti,CS Constantine,Saint-Eloi Lupopo,Wuhan Three Towns F.C.
+Elazığspor,Pogoń Szczecin,Al Masry,Sagan Tosu,Deportivo Pasto
+Valmiera FK,Žilina,Debrecen,Atlético San Luis,CD Jaguares
+PSM Makassar,Cracovia Kraków,Hekari United,Club Atlético Bucaramanga,Plaza Colonia
+LA Galaxy,Beroe,Criciúma,Persipura Jayapura,Oriente Petrolero
+Paradou AC,Incheon United,Odds Ballklubb,KV Mechelen,Dempo SC
+Newtown,Liga de Loja,Astres FC de Douala,Kasımpaşa,Melipilla
+Hearts of Oak,Rukh Vynnyky,Asociación Deportiva Tarma (ADT),Eastern Suburbs,ZESCO United
+Melipilla,Newtown,Queens Park Rangers,Kasımpaşa,Toulouse
+El Geish,Coleraine,Sagrada Esperança,Future FC,Lobi Stars
+Liga de Loja,Newtown,Astres FC de Douala,Kasımpaşa,KS Warta Poznań
+Sabah FK,Sligo Rovers,Curicó Unido,Brøndby,Riga FC

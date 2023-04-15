@@ -3,8 +3,7 @@
 #include <string.h>
 #include <math.h>
 #include <time.h>
-
-
+ 
 float distance(float x1, float x2, float y1, float y2){
     return sqrt(pow((x2 - x1), 2) + pow((y2 - y1), 2));
 }
@@ -72,16 +71,12 @@ int main(){
     input = fopen("equipos.txt", "r");
     output = fopen("partidos.txt", "w");
 
-
     while(fgets(line, 100, input)){
         char *value = strtok(line, ",");
         float x;
         float y;
         for(int i = 0; i < 3; i++){
-            if (i == 0) {
-                team_names[k] = malloc(strlen(value) + 1);
-                strcpy(team_names[k], value);
-                }
+            if (i == 0) team_names[k] = strdup(value);
             else if(i == 1) x = atof(value);
             else if(i == 2) y = atof(value);
             value = strtok(NULL, ",");
@@ -147,15 +142,14 @@ int main(){
         for(int j = 0; j < 4; j++){
             distance_average += copy_matrix[i][matches[i][j]];
             suma += copy_matrix[i][matches[i][j]];
-            if(j == 3) printf("La distancia promedio que recorre el equipo %s es: %f \n", copy_name[i], (distance_average)/4);
+            if(j == 3) printf("La distancia promedio que recorre el equipo %s es: %0.2f \n", copy_name[i], (distance_average)/4);
         }
         distance_average = 0;
     }
 
-    printf("\nLa distancia promedio que recorre el torneo es: %f \n", suma/(N*4));
+    printf("\nLa distancia promedio que recorre el torneo es: %0.2f \n", suma/(N*4));
 
     output = fopen("partidos.txt", "w");
-    fprintf(output, "Equipo, Rival 1, Rival 2, Rival 3, Rival 4\n");
 
     for(int i = 0; i < N; i++){
         fprintf(output, "%s,", copy_name[i]);
